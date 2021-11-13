@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sakshamchaturvedi.github.io/app1",
+  "homepage": "https://sakshamchaturvedi.github.io/gitrepo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
